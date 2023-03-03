@@ -1,0 +1,3 @@
+# CourseOutlineLaTeXClass
+
+I got tired of the duplication involved in making my course outlines and I wanted to focus on the important stuff. I also was feeling picky about how stuff looked, hence my crappy go at tikz for laying out the course summaries. I should fix that up so it does the sizing and alignment properly...
